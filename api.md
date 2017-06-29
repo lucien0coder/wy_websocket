@@ -14,8 +14,13 @@
  * 商家联盟
 ## /wechat
  * 微信业务支撑
- * 接口
- ** 
+ * 接口:
+ * /baseSetting
+ * /shopCounting
+ * /marketing
+ * /marketing/sendredpack/payment
+ * /marketing/sendredpack/public
+ * /dispatchMsg
 ## /virtualCurrency
  * 虚拟货币管理
 ## /bigData
@@ -23,5 +28,13 @@
 ## /systemResource
  * 系统资源设置
 
+# wy_websocket
+
+# api
+## /sendMsg
+## /sendRedPack
+# modal
+## vertify
+## wechatApi
 
 
